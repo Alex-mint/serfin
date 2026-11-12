@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             id: 'travel',
-            name: 'Europ Assistance',
+            name: 'Redion, Europ Assistance',
             description: '915-149-913 Base en Vecindario, Aguimes',
             image: 'img/europ.jpg',
             cities: ['Santa Lucia', 'Aguimes', 'Ingenio']
